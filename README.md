@@ -21,6 +21,4 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 <a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>  
-</div>  
-<br/><br/>
-<div align="center" style="margin: 10px;"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7ub0y7wjcq2sibemi2rko9xcm&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
+</div>
